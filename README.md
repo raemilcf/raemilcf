@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.kaggle.com/raemilcorniel1" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 
-<a href = "mailto:raemilcorniel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href = "mailto:raemilcorniel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
 
 </div>
 
